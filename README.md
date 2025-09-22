@@ -2,7 +2,6 @@
 
 ## Overview
 This repository implements a framework for interpreting neural network latent spaces using symbolic search.
-Modify data_utils.py and execute the following files in sequence to train and interpret the neural network.
 
 # Modify the following files to define system and model
 
